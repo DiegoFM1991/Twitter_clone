@@ -1,4 +1,6 @@
 <h1>Twitter_clone</h1>
+<img align="center" alt="Twitter_clone" height="85" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+
 Repositório para projeto de clone do Twitter em Java.
 
 <h2>Projeto da Disciplina POO - Entra21 2022</h2>
@@ -51,5 +53,3 @@ chame todos eles no main()
 - enviar o link do projeto versionado no git para vilmarcesarpereira@gmail.com
 - assunto [POO-Entra21 2022] NomeAluno1_NomeAluno2
 - prazo: entregar até 31/07/2022 23:59
-
-<img align="center" alt="Twitter_clone" height="85" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
