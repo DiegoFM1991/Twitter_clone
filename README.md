@@ -12,17 +12,13 @@
 <img align="center" alt="Twitter_clone" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </div>
 
-Repositório para projeto de clone do Twitter em Java.
+<h2>Repositório para projeto de clone do Twitter em Java.</h2>
 
-<h2>Projeto da Disciplina POO - Entra21 2022</h2>
-
-Desenvolva (individualmente ou em duplas) um sistema capaz de armazenar mensagens de
-texto no formato de um microblog (o Pombo)
+Sistema capaz de armazenar mensagens de texto no formato de um microblog (o Pombo)
 
 1. Requisitos do Pombo:
 1.1 Um usuário geral (nome, email e CPF) pode enviar várias mensagens (pruus)
-1.2 Um usuário administrador (com todos os dados do usuário geral) pode analisar pruus e
-bloqueá-los
+1.2 Um usuário administrador (com todos os dados do usuário geral) pode analisar pruus e bloqueá-los
 1.2 Cada pruu contém:
 - id: atributo inteiro para representar unicamente um determinado pruu.
 - Estratégias para gerar o id (ESCOLHER UMA SÓ):
