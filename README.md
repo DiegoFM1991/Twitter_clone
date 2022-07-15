@@ -52,4 +52,4 @@ chame todos eles no main()
 - assunto [POO-Entra21 2022] NomeAluno1_NomeAluno2
 - prazo: entregar até 31/07/2022 23:59
 
-<img align="center" alt="Twitter_clone" height="85" width="85" src="https://thumbs.dreamstime.com/b/logotipo-do-pombo-52078964.jpg">
+<img align="center" alt="Twitter_clone" height="85" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
