@@ -1,7 +1,10 @@
 <h1>Twitter_clone</h1>
+
+<div>
 <img align="center" alt="Twitter_clone" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 <img align="center" alt="Twitter_clone" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 <img align="center" alt="Twitter_clone" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+</div>
 
 Repositório para projeto de clone do Twitter em Java.
 
