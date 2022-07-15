@@ -51,3 +51,5 @@ chame todos eles no main()
 - enviar o link do projeto versionado no git para vilmarcesarpereira@gmail.com
 - assunto [POO-Entra21 2022] NomeAluno1_NomeAluno2
 - prazo: entregar até 31/07/2022 23:59
+
+<img align="center" alt="Twitter_clone" height="85" width="85" src="https://thumbs.dreamstime.com/b/logotipo-do-pombo-52078964.jpg">
