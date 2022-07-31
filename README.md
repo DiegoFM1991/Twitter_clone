@@ -16,7 +16,7 @@
 
 Sistema capaz de armazenar mensagens de texto no formato de um microblog.
 
-1. Requisitos:
+<h3>1. Requisitos:</h3>
 
 1.1 Um usuário geral (nome, email e CPF) pode enviar várias mensagens (pruus).
 
@@ -40,7 +40,7 @@ pruu (implemente essa regra na classe PrincipalPombo;
 - um usuário selecionado (pruus apenas desse usuário).
 - 1.6 Ao listar os pruus, o sistema deve permitir que o usuário atual dê like.
 
-2. Desenvolva:
+<h3>2. Desenvolva:</h3>
 - 2.1 as classes de entidades para modelar adequadamente o problema proposto (no pacote entidade).
 - 2.2 uma classe PrincipalPombo (no pacote principal) e implemente no método main() as seguintes operações:
 - cadastrar usuários (pelo menos 3, sendo um deles administrador).
@@ -52,7 +52,7 @@ pruu (implemente essa regra na classe PrincipalPombo;
 - visualizar o pruu bloqueado (com usuário comum).
 - dica: crie um método estático na classe PrincipalPombo para cada item solicitado e chame todos eles no main()
 
-3. Entrega:
+<h3>3. Entrega:</h3>
 - enviar o link do projeto versionado no git para vilmarcesarpereira@gmail.com
 - assunto [POO-Entra21 2022] NomeAluno1_NomeAluno2
 - prazo: entregar até 31/07/2022 23:59
