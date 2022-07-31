@@ -16,10 +16,13 @@
 
 Sistema capaz de armazenar mensagens de texto no formato de um microblog.
 
-1. Requisitos:\n
+1. Requisitos:
+
 1.1 Um usuário geral (nome, email e CPF) pode enviar várias mensagens (pruus).
-- 1.2 Um usuário administrador (com todos os dados do usuário geral) pode analisar pruus e bloqueá-los.
-- 1.2 Cada pruu contém:
+
+1.2 Um usuário administrador (com todos os dados do usuário geral) pode analisar pruus e bloqueá-los.
+
+1.3 Cada pruu contém:
 - id: atributo inteiro para representar unicamente um determinado pruu.
 - Estratégias para gerar o id (ESCOLHER UMA SÓ):
 - a- Gerar de forma randômica ao construir um novo objeto pruu. Exemplo: https://www.educative.io/answers/how-to-generate-random-numbers-in-java
