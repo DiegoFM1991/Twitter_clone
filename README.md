@@ -41,8 +41,11 @@ pruu (implemente essa regra na classe PrincipalPombo;
 - 1.6 Ao listar os pruus, o sistema deve permitir que o usuário atual dê like.
 
 <h3>2. Desenvolva:</h3>
-- 2.1 as classes de entidades para modelar adequadamente o problema proposto (no pacote entidade).
-- 2.2 uma classe PrincipalPombo (no pacote principal) e implemente no método main() as seguintes operações:
+
+2.1 as classes de entidades para modelar adequadamente o problema proposto (no pacote entidade).
+
+2.2 uma classe PrincipalPombo (no pacote principal) e implemente no método main() as seguintes operações:
+
 - cadastrar usuários (pelo menos 3, sendo um deles administrador).
 - cada usuário deve enviar pelo menos 2 pruus.
 - mostrar todos os pruus de todos os usuários.
@@ -50,9 +53,4 @@ pruu (implemente essa regra na classe PrincipalPombo;
 - dar like em um determinado pruu.
 - administrador bloquear um determinado pruu.
 - visualizar o pruu bloqueado (com usuário comum).
-- dica: crie um método estático na classe PrincipalPombo para cada item solicitado e chame todos eles no main()
-
-<h3>3. Entrega:</h3>
-- enviar o link do projeto versionado no git para vilmarcesarpereira@gmail.com
-- assunto [POO-Entra21 2022] NomeAluno1_NomeAluno2
-- prazo: entregar até 31/07/2022 23:59
+- dica: crie um método estático na classe PrincipalPombo para cada item solicitado e chame todos eles no main().
